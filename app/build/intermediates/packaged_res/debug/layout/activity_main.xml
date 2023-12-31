@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:textAllCaps="false"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnWeek1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 1"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek4"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnWeek2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 2"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek5"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek3"
+        app:layout_constraintStart_toEndOf="@id/btnWeek1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnWeek3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 3"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnWeek2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnWeek4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 4"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek7"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek1" />
+
+    <Button
+        android:id="@+id/btnWeek5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 5"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek8"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek6"
+        app:layout_constraintStart_toEndOf="@id/btnWeek4"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek2" />
+
+    <Button
+        android:id="@+id/btnWeek6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 6"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnWeek5"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek3" />
+
+    <Button
+        android:id="@+id/btnWeek7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 7"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek10"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek4" />
+
+    <Button
+        android:id="@+id/btnWeek8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 8"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek11"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek9"
+        app:layout_constraintStart_toEndOf="@id/btnWeek7"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek5" />
+
+    <Button
+        android:id="@+id/btnWeek9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 9"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek12"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnWeek8"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek6" />
+
+    <Button
+        android:id="@+id/btnWeek10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 10"
+        app:layout_constraintBottom_toTopOf="@id/btnGithubRepo"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek7" />
+
+    <Button
+        android:id="@+id/btnWeek11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 11"
+        app:layout_constraintBottom_toTopOf="@id/btnWeek13"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek12"
+        app:layout_constraintStart_toEndOf="@id/btnWeek10"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek8" />
+
+    <Button
+        android:id="@+id/btnWeek12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 12"
+        app:layout_constraintBottom_toTopOf="@id/btnGithubProfile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnWeek11"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek9" />
+
+    <Button
+        android:id="@+id/btnGithubRepo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Source"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/btnWeek13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek10" />
+
+    <Button
+        android:id="@+id/btnWeek13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Week 13"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/btnGithubProfile"
+        app:layout_constraintStart_toEndOf="@id/btnGithubRepo"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek11" />
+
+    <Button
+        android:id="@+id/btnGithubProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Creator"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnWeek13"
+        app:layout_constraintTop_toBottomOf="@id/btnWeek12" />
+</androidx.constraintlayout.widget.ConstraintLayout>

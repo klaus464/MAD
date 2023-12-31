@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mad.app-merged_res-31:/layout_week01a_activity_main.xml.flat",
+        "source": "com.example.mad.app-main-33:/layout/week01a_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week04_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week04_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week10_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week10_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week08_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week08_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week13_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week13_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week01_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week01_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week05_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week05_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mad.app-merged_res-31:/layout_week01b_activity_main.xml.flat",
+        "source": "com.example.mad.app-main-33:/layout/week01b_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week09_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week09_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week02_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week02_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week06_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week06_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week12_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week12_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week03_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week03_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week07_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week07_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\layout_week11_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\layout\\week11_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.2\\com.example.mad.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]
